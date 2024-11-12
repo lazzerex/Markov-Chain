@@ -1,4 +1,4 @@
-# markov-chain
+# Markov Chain
 Random text generation with Markov Chains.
 
 Some more interesting info about this: 
