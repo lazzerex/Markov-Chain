@@ -23,7 +23,7 @@ class MarkovChain:
 
         return ' '.join(output)
 
-# Example usage
+# test
 if __name__ == "__main__":
     # Create a Markov chain instance
     markov_chain = MarkovChain()
